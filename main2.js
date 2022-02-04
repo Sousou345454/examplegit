@@ -5,6 +5,3 @@ async function someotherfunction() {
 	//TODO get response data and store it in the db.
 }
 
-const main2 = async () => {
-	await someotherfunction()
-}
