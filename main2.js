@@ -5,3 +5,6 @@ async function someotherfunction() {
 	//TODO get response data and store it in the db.
 }
 
+function main() {
+	console.log("main function has been called!")
+}
